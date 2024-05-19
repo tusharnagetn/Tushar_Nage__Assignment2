@@ -1,7 +1,0 @@
-C:\Users\Lenovo\Downloads\Demo\Tushar_Nage__Assignment2\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
-C:\Users\Lenovo\Downloads\Demo\Tushar_Nage__Assignment2\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Lenovo\Downloads\Demo\Tushar_Nage__Assignment2\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Lenovo\Downloads\Demo\Tushar_Nage__Assignment2\Inventory Management System\Inventory Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Lenovo\Downloads\Demo\Tushar_Nage__Assignment2\Inventory Management System\Inventory Management System\bin\Debug\ReadLine.dll
-C:\Users\Lenovo\Downloads\Demo\Tushar_Nage__Assignment2\Inventory Management System\Inventory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Lenovo\Downloads\Demo\Tushar_Nage__Assignment2\Inventory Management System\Inventory Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
